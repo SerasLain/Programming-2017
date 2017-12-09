@@ -1,0 +1,159 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!-- Latest compiled and minified CSS -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+		<!-- Optional theme -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+		<!-- Latest compiled and minified JavaScript -->
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+		<!-- Footer style -->
+		<style>
+			html {
+  				position: relative;
+  				min-height: 100%;
+			}
+			body {
+				/* Margin bottom by footer height */
+				margin-bottom: 60px;
+			}
+			.footer {
+				position: absolute;
+				bottom: 0;
+				width: 100%;
+				/* Set the fixed height of the footer here */
+				height: 60px;
+				background-color: #AFEEEE;
+				margin-top: 10px;
+			}
+			body > .container {
+				padding: 60px 15px 0;
+			}
+			.container .text-muted {
+				margin: 20px 0;
+			}
+			.footer > .container {
+				padding-right: 15px;
+				padding-left: 15px;
+			}
+		</style>
+		<title>Анкета про бытовую лексику: главная</title>
+	</head>
+	<body>
+		<!-- Header -->
+		<nav class="navbar navbar-inverse navbar-fixed-top">
+			<div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="/">Бытовая лексика</a>
+				</div>
+			<div id="navbar" class="collapse navbar-collapse">
+				<ul class="nav navbar-nav">
+					<li class="active"><a href="/">Заполнить анкету</a></li>
+					<li><a href="/stats">Статистика</a></li>
+					<li><a href="/json">JSON</a></li>
+					<li><a href="/search">Поиск</a></li>
+				</ul>
+			</div>
+			<!--/.nav-collapse -->
+		</div>
+		</nav>
+		<div class="container theme-showcase" role="main">
+
+		<!-- Call to action-->
+			<div class="jumbotron">
+				<h1>Анкета про названия вещей</h1>
+				<p>Здравствуйте! <br /> Я собираю данные о том, как люди называют разные обычные предметы. Пожалуйста, заполните анкету</p>
+				<p>Большое спасибо!</p>
+			</div>
+			<!-- Form -->
+			<form action="/">
+				<div class="panel panel-info">
+					<div class="panel-heading">
+						<h1 class="panel-title">Сначала — немного информации о Вас</h1>
+					</div>
+					<!-- About speaker -->
+					<div class="panel-body">
+							<p><b>Сколько вам лет?</b><br /><input type="text" name="age" value=""></p>
+							<p><b>В каком регионе вы родились?</b><br /><input type="text" name="region_born" value=""><br /><i>Под "регионом" имеется в виду регион России: Московская область, республика Татарстан и т д. например, Красноярский край или Ямало-Ненецкий автономный округ. Если вы родились в другой стране, укажите её, например, Польша.</i></p>
+							<p><b>В каком регионе вы прожили бóльшую часть жизни?</b><br /><input type="text" name="region_now" value=""><br />
+							<p><b>Ваш пол? (женский, мужской, другой) </b><br /><input type="text" name="gender" value=""></p>
+					</div>
+				</div>
+				<!-- Instructions -->
+				<div class="well">
+					<h2>Как заполнять?</h2>
+					<p>Вам будут предложены разные картинки, на которых будут изображены всякие повседневные вещи. В форму запишите, пожалуйста, что изображено на картинке.</p>
+				</div>
+				<!-- zaryadnik -->
+				<div class="col-md-6">
+					<div class="panel panel-info">
+					<div class="panel-heading">
+						<h1 class="panel-title"> Как вы называете предмет, изображенный на картинке? </h1>
+					</div>
+					<div class="panel-body">
+							<p><img src="{{url_for('static', filename='zaryadnik.jpg')}}" width="300" height="200" /> <br /><input type="text" name="zaryadnik"></p>
+					</div>
+				  </div>
+				</div>
+				<!-- Powerbank -->
+                <div class="col-md-6">
+					<div class="panel panel-info">
+					<div class="panel-body">
+							<p><img src="{{url_for('static', filename='powerbank.jpg')}}" width="500" height="300" /> <br /><input type="text" name="power"></p>
+					</div>
+				  </div>
+				</div>
+                <!-- shnur -->
+                <div class="col-md-6">
+					<div class="panel panel-info">
+					<div class="panel-body">
+							<p><img src="{{url_for('static', filename='shnur.jpg')}}" weight="435" height="300"/> <br /><input type="text" name="shnur"></p>
+					</div>
+				  </div>
+				</div>
+                <!-- termokruzhka -->
+                <div class="col-md-6">
+					<div class="panel panel-info">
+					<div class="panel-body">
+							<p><img src="{{url_for('static', filename='termokruzhka.jpg')}}" weight="400" height="300"/> <br /><input type="text" name="termo"></p>
+					</div>
+				  </div>
+				</div>
+				<!-- parka -->
+                <div class="col-md-6">
+					<div class="panel panel-info">
+					<div class="panel-body">
+							<p><img src="{{url_for('static', filename='parka.jpg')}}" weight="300" height="500"/> <br /><input type="text" name="parka"></p>
+					</div>
+				  </div>
+				</div>
+                <!-- transformer -->
+                <div class="col-md-6">
+					<div class="panel panel-info">
+					<div class="panel-body">
+							<p><img src="{{url_for('static', filename='transformer.jpg')}}" weight="350" height="334"/> <br /><input type="text" name="trans"></p>
+					</div>
+				  </div>
+				</div>
+				<!-- Send -->
+				<p align="center"><input type="submit" class="btn btn-lg btn-primary" value="Отправить"></p>
+			</form>
+			</div>
+
+			<!-- Footer -->
+			<footer class="footer">
+				<div class="container">
+					<p class="text-muted">Анастасия Сидорова, Школа Лингвистики НИУ ВШЭ; <a href="mailto:seraslain@gmail.com">пишите!</a></p>
+				</div>
+			</footer>
+		</div>
+	</body>
+</html>

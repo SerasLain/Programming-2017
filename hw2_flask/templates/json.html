@@ -1,0 +1,23 @@
+<html>
+	<head>
+		<title>JSON анкет</title>
+		<style type="text/css">
+            tab1 { padding-left: 4em; }
+        </style>
+	</head>
+	<body>
+		{% for jsonItem in jsonar %}
+		<p>{<br />
+			{{ jsonItem | safe }}
+		}</p>
+		{% endfor %}
+	</body>
+<!-- Footer -->
+			<footer class="footer">
+				<div class="container">
+					<p class="text-muted">Анастасия Сидорова, Школа Лингвистики НИУ ВШЭ; <a href="mailto:seraslain@gmail.com">пишите!</a></p>
+				</div>
+			</footer>
+		</div>
+	</body>
+</html>
