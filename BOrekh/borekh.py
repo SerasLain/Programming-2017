@@ -1,7 +1,11 @@
 ## Видят боги, я не хотела это писать
+## Оно умеет переводить слова в дорев. орфографию. А больше ничего не умеет. Сайт не работает, шаблон бутстрапа упал.
+##Зато словарь в базе данных!
+##У меня нет сил ничего допливать, пусть оно остается, как есть
+
 from flask import Flask
 from flask import render_template, request
-import os
+import html
 import urllib.request
 import re
 import sqlite3
@@ -65,7 +69,6 @@ def get_pages(arr_links):
 
 
 ##Транслитератор
-##Для слов - на pymorphy: работает быстрее, представление разультата - удобнее, а неснятая омонимия не мешает
 def stem(text):
     arr_dict = mystem.analyze(text)
     return arr_dict
@@ -77,15 +80,50 @@ def database_search(lemma, filename="doref_dictionary.db"):
         conn.close()
         return old_lemma
 
+def convert(word, old_lemma, ana):
+    if word.startswith('черес') == True:
+        word.sub('черес', 'через')
+    elif word.startswith('бес'):
+        word.sub('бес', 'без')
+    elif word.startswith('чрес'):
+        word.sub('чрес', 'чрез')
+    if word[-1] not in set('йуеыаоэяию'):
+        word += 'ъ'
+    word_arr = list(word)
+    for i in range(len(word_arr)):
+        if word_arr[i] != old_lemma[i]:
+            if word_arr[i] == 'и':
+                word_arr[i]  = old_lemma[i]
+            if word_arr[i] == 'ф':
+                word_arr[i]  = old_lemma[i]
+            if word_arr[i] == 'е' and old_lemma[i] == 'ѣ':
+                word_arr[i] = old_lemma[i]
+    grammar =  ana[0]['analysis'][0]['gr']
+    if grammar[0] in ('A', 'S', 'P'):
+        if grammar.find('пр,') != -1 or grammar.find('дат') != -1:
+            while True:
+                print(word)
+                a = word.rfind('е')
+                if a == -1:
+                    break
+                else:
+                    word_arr[a] = 'ѣ'
+                    break
+    n_word = ''.join(word_arr)
+    return n_word
+
+
+
 def stem_word(word):
     w = mystem.analyze(word)
     print(w)
-    lemma = w['analysis'][0]['lex']
+    lemma = w[0]['analysis'][0]['lex']
     old_lemma = database_search(lemma)
-    if old_lemma != None:
-        print('Все очень плохо')
+    if old_lemma == None:
+        return convert(word, word, w)
     else:
-        print(old_lemma)
+        old_lemma = html.unescape(old_lemma[0].split(' ')[0].strip('.,:('))
+        return convert(word, old_lemma, w)
 
 
 ##Сайт
@@ -95,6 +133,10 @@ app = Flask(__name__)
 def index():
     return render_template('index.html')
 
+@app.route('/result')
+def result():
+    n_word = stem_word(request.args.get('word'))
+    return render_template('result.html', n_word=n_word)
 
 def show_db():
     conn = sqlite3.connect('doref_dictionary.db')
@@ -108,11 +150,7 @@ def main():
     links = ['http://slovnik.narod.ru/old/slovar/a.html', 'http://slovnik.narod.ru/old/slovar/b.html', 'http://slovnik.narod.ru/old/slovar/v.html', 'http://slovnik.narod.ru/old/slovar/g.html', 'http://slovnik.narod.ru/old/slovar/d.html', 'http://slovnik.narod.ru/old/slovar/e.html', 'http://slovnik.narod.ru/old/slovar/sch.html', 'http://slovnik.narod.ru/old/slovar/z.html', 'http://slovnik.narod.ru/old/slovar/i.html', 'http://slovnik.narod.ru/old/slovar/k.html', 'http://slovnik.narod.ru/old/slovar/l.html', 'http://slovnik.narod.ru/old/slovar/m.html', 'http://slovnik.narod.ru/old/slovar/n.html', 'http://slovnik.narod.ru/old/slovar/o.html', 'http://slovnik.narod.ru/old/slovar/p.html', 'http://slovnik.narod.ru/old/slovar/po.html', 'http://slovnik.narod.ru/old/slovar/pr.html', 'http://slovnik.narod.ru/old/slovar/r.html', 'http://slovnik.narod.ru/old/slovar/s.html', 'http://slovnik.narod.ru/old/slovar/sm.html', 'http://slovnik.narod.ru/old/slovar/t.html', 'http://slovnik.narod.ru/old/slovar/u.html', 'http://slovnik.narod.ru/old/slovar/f.html', 'http://slovnik.narod.ru/old/slovar/x.html', 'http://slovnik.narod.ru/old/slovar/c.html', 'http://slovnik.narod.ru/old/slovar/ch.html', 'http://slovnik.narod.ru/old/slovar/sh.html', 'http://slovnik.narod.ru/old/slovar/ya.html']
     #наполняем базу данных
     #get_pages(links)
-    ##show_db()
-    #print(mystem.analyze('Меня'))
-    #print(morph.parse('Лингвоадского')[0].normal_form)
-    #print(database_search('Лингвоад'))
-    stem_word('абажур')
+    app.run(debug=True)
 
 if __name__ == '__main__':
     main()
