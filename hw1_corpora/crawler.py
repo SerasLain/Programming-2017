@@ -76,17 +76,19 @@ def make_links(arr_of_match):
 
 def getlinks():
     ##Ходит по ссылкам из массива и пытается с ними работать
-    form = 'http://www.surskieprostori.ru/news.html?page=%d'
-    arr_links = []
-    for i in range(1, 190):
+    form = 'http://bash.im/index/n'
+    arr_texts = []
+    for i in range(1299, 1200):
         user_agent = 'Mozilla/5.0 (Windows NT 6.1; Win64; x64)'
         req = urllib.request.Request(form%(i), headers={'User-Agent': user_agent})
         with urllib.request.urlopen(req) as response:
-            html = response.read().decode('cp1251')
-            arr = re.finditer(r'<div class="mnname"><a href="((.*)?)">', html)
-            for i in make_links(arr):
-                arr_links.append(i)
-    return arr_links
+            html = response.read().decode('utf-8')
+            arr = re.finditer(r'<div class="text">(.*)?</div>', html)
+        n_arr = [m.group(1) for m in arr]
+        texts = r'\n'.join(n_arr)
+        with open(str(i)+'.txt', 'w', encoding='utf-8') as f:
+            f.write(texts)
+    return texts
 
 
 def get(link):
@@ -148,13 +150,4 @@ def mystem_xml():
             os.system(mystem_plain)
 
 
-def main():
-    make_csv()
-    getpages(getlinks())
-    mystem_plain()
-    mystem_xml()
-
-
-
-if __name__ == '__main__':
-    main()
+getlinks()

@@ -1,0 +1,1696 @@
+id,param,val1
+1,age,19
+1,gender,ж
+1,RegionBorn,Москва и Московская область
+1,RegionLife,Москва и Московская область
+1,education,студент
+2,age,17
+2,gender,ж
+2,RegionBorn,Западнее Урала
+2,RegionLife,Москва и Московская область
+2,education,студент
+3,age,17
+3,gender,ж
+3,RegionBorn,Западнее Урала
+3,RegionLife,Москва и Московская область
+3,education,студент
+4,age,18
+4,gender,ж
+4,RegionBorn,Москва и Московская область
+4,RegionLife,Москва и Московская область
+4,education,среднее
+5,age,18
+5,gender,ж
+5,RegionBorn,Москва и Московская область
+5,RegionLife,Москва и Московская область
+5,education,среднее
+6,age,17
+6,gender,ж
+6,RegionBorn,Москва и Московская область
+6,RegionLife,Москва и Московская область
+6,education,студент
+7,age,21
+7,gender,ж
+7,RegionBorn,Западнее Урала
+7,RegionLife,Западнее Урала
+7,education,студент
+8,age,18
+8,gender,ж
+8,RegionBorn,Москва и Московская область
+8,RegionLife,Москва и Московская область
+8,education,среднее специальное
+9,age,43
+9,gender,ж
+9,RegionBorn,Санкт-Петербург и Ленинградская область
+9,RegionLife,Санкт-Петербург и Ленинградская область
+9,education,высшее
+10,age,18
+10,gender,ж
+10,RegionBorn,Москва и Московская область
+10,RegionLife,Москва и Московская область
+10,education,студент
+11,age,18
+11,gender,ж
+11,RegionBorn,Москва и Московская область
+11,RegionLife,Москва и Московская область
+11,education,студент
+12,age,19
+12,gender,ж
+12,RegionBorn,Москва и Московская область
+12,RegionLife,Москва и Московская область
+12,education,студент
+13,age,15
+13,gender,ж
+13,RegionBorn,Москва и Московская область
+13,RegionLife,Москва и Московская область
+13,education,среднее
+14,age,47
+14,gender,ж
+14,RegionBorn,Москва и Московская область
+14,RegionLife,Москва и Московская область
+14,education,высшее
+15,age,27
+15,gender,м
+15,RegionBorn,Москва и Московская область
+15,RegionLife,Москва и Московская область
+15,education,высшее
+16,age,27
+16,gender,м
+16,RegionBorn,Москва и Московская область
+16,RegionLife,Москва и Московская область
+16,education,высшее
+17,age,15
+17,gender,ж
+17,RegionBorn,Москва и Московская область
+17,RegionLife,Москва и Московская область
+17,education,среднее
+18,age,23
+18,gender,ж
+18,RegionBorn,Москва и Московская область
+18,RegionLife,Москва и Московская область
+18,education,высшее
+19,age,19
+19,gender,ж
+19,RegionBorn,Москва и Московская область
+19,RegionLife,Москва и Московская область
+19,education,студент
+20,age,19
+20,gender,ж
+20,RegionBorn,Москва и Московская область
+20,RegionLife,Москва и Московская область
+20,education,студент
+21,age,53
+21,gender,ж
+21,RegionBorn,Москва и Московская область
+21,RegionLife,Москва и Московская область
+21,education,высшее
+22,age,23
+22,gender,ж
+22,RegionBorn,Москва и Московская область
+22,RegionLife,Москва и Московская область
+22,education,высшее
+23,age,23
+23,gender,ж
+23,RegionBorn,Москва и Московская область
+23,RegionLife,Москва и Московская область
+23,education,высшее
+24,age,17
+24,gender,ж
+24,RegionBorn,Западнее Урала
+24,RegionLife,Западнее Урала
+24,education,среднее
+25,age,14
+25,gender,ж
+25,RegionBorn,Москва и Московская область
+25,RegionLife,Москва и Московская область
+25,education,среднее
+26,age,19
+26,gender,ж
+26,RegionBorn,Москва и Московская область
+26,RegionLife,Москва и Московская область
+26,education,студент
+27,age,19
+27,gender,м
+27,RegionBorn,Москва и Московская область
+27,RegionLife,Москва и Московская область
+27,education,студент
+28,age,20
+28,gender,м
+28,RegionBorn,Москва и Московская область
+28,RegionLife,Москва и Московская область
+28,education,студент
+29,age,29
+29,gender,ж
+29,RegionBorn,Москва и Московская область
+29,RegionLife,Москва и Московская область
+29,education,высшее
+30,age,45
+30,gender,ж
+30,RegionBorn,Москва и Московская область
+30,RegionLife,Москва и Московская область
+30,education,высшее
+31,age,19
+31,gender,м
+31,RegionBorn,Москва и Московская область
+31,RegionLife,Москва и Московская область
+31,education,студент
+32,age,18
+32,gender,ж
+32,RegionBorn,Москва и Московская область
+32,RegionLife,Москва и Московская область
+32,education,студент
+33,age,18
+33,gender,ж
+33,RegionBorn,Москва и Московская область
+33,RegionLife,Москва и Московская область
+33,education,студент
+34,age,19
+34,gender,ж
+34,RegionBorn,Москва и Московская область
+34,RegionLife,Москва и Московская область
+34,education,студент
+35,age,19
+35,gender,м
+35,RegionBorn,Москва и Московская область
+35,RegionLife,Москва и Московская область
+35,education,студент
+36,age,18
+36,gender,ж
+36,RegionBorn,Западнее Урала
+36,RegionLife,Западнее Урала
+36,education,студент
+37,age,29
+37,gender,ж
+37,RegionBorn,Москва и Московская область
+37,RegionLife,Москва и Московская область
+37,education,высшее
+38,age,17
+38,gender,ж
+38,RegionBorn,Москва и Московская область
+38,RegionLife,Москва и Московская область
+38,education,студент
+39,age,20
+39,gender,ж
+39,RegionBorn,Западнее Урала
+39,RegionLife,Москва и Московская область
+39,education,студент
+40,age,32
+40,gender,ж
+40,RegionBorn,Санкт-Петербург и Ленинградская область
+40,RegionLife,Санкт-Петербург и Ленинградская область
+40,education,высшее
+41,age,32
+41,gender,ж
+41,RegionBorn,Санкт-Петербург и Ленинградская область
+41,RegionLife,Санкт-Петербург и Ленинградская область
+41,education,высшее
+42,age,20
+42,gender,ж
+42,RegionBorn,Москва и Московская область
+42,RegionLife,Москва и Московская область
+42,education,студент
+43,age,20
+43,gender,ж
+43,RegionBorn,Западнее Урала
+43,RegionLife,Западнее Урала
+43,education,студент
+44,age,20
+44,gender,ж
+44,RegionBorn,Западнее Урала
+44,RegionLife,Западнее Урала
+44,education,студент
+45,age,19
+45,gender,ж
+45,RegionBorn,Западнее Урала
+45,RegionLife,Западнее Урала
+45,education,студент
+46,age,22
+46,gender,ж
+46,RegionBorn,Восточнее Урала
+46,RegionLife,Восточнее Урала
+46,education,высшее
+47,age,18
+47,gender,ж
+47,RegionBorn,Западнее Урала
+47,RegionLife,Западнее Урала
+47,education,студент
+48,age,20
+48,gender,ж
+48,RegionBorn,Восточнее Урала
+48,RegionLife,Восточнее Урала
+48,education,студент
+49,age,53
+49,gender,ж
+49,RegionBorn,Восточнее Урала
+49,RegionLife,Восточнее Урала
+49,education,среднее специальное
+50,age,18
+50,gender,ж
+50,RegionBorn,Восточнее Урала
+50,RegionLife,Восточнее Урала
+50,education,студент
+51,age,20
+51,gender,ж
+51,RegionBorn,Восточнее Урала
+51,RegionLife,Восточнее Урала
+51,education,студент
+52,age,15
+52,gender,ж
+52,RegionBorn,Восточнее Урала
+52,RegionLife,Восточнее Урала
+52,education,среднее
+53,age,18
+53,gender,ж
+53,RegionBorn,Западнее Урала
+53,RegionLife,Западнее Урала
+53,education,студент
+54,age,19
+54,gender,ж
+54,RegionBorn,Западнее Урала
+54,RegionLife,Западнее Урала
+54,education,студент
+55,age,21
+55,gender,ж
+55,RegionBorn,Западнее Урала
+55,RegionLife,Западнее Урала
+55,education,студент
+56,age,21
+56,gender,ж
+56,RegionBorn,Западнее Урала
+56,RegionLife,Западнее Урала
+56,education,студент
+57,age,20
+57,gender,ж
+57,RegionBorn,Восточнее Урала
+57,RegionLife,Восточнее Урала
+57,education,студент
+58,age,19
+58,gender,ж
+58,RegionBorn,Западнее Урала
+58,RegionLife,Западнее Урала
+58,education,студент
+59,age,15
+59,gender,ж
+59,RegionBorn,Москва и Московская область
+59,RegionLife,Москва и Московская область
+59,education,среднее
+60,age,27
+60,gender,м
+60,RegionBorn,Москва и Московская область
+60,RegionLife,Западнее Урала
+60,education,высшее
+61,age,18
+61,gender,ж
+61,RegionBorn,Санкт-Петербург и Ленинградская область
+61,RegionLife,Санкт-Петербург и Ленинградская область
+61,education,студент
+62,age,24
+62,gender,ж
+62,RegionBorn,Восточнее Урала
+62,RegionLife,Восточнее Урала
+62,education,студент
+63,age,31
+63,gender,ж
+63,RegionBorn,Восточнее Урала
+63,RegionLife,Восточнее Урала
+63,education,высшее
+64,age,49
+64,gender,ж
+64,RegionBorn,Санкт-Петербург и Ленинградская область
+64,RegionLife,Санкт-Петербург и Ленинградская область
+64,education,высшее
+65,age,17
+65,gender,ж
+65,RegionBorn,Западнее Урала
+65,RegionLife,Западнее Урала
+65,education,студент
+66,age,18
+66,gender,ж
+66,RegionBorn,Западнее Урала
+66,RegionLife,Западнее Урала
+66,education,студент
+67,age,19
+67,gender,ж
+67,RegionBorn,Восточнее Урала
+67,RegionLife,Западнее Урала
+67,education,студент
+68,age,19
+68,gender,м
+68,RegionBorn,Западнее Урала
+68,RegionLife,Западнее Урала
+68,education,студент
+69,age,19
+69,gender,ж
+69,RegionBorn,Западнее Урала
+69,RegionLife,Западнее Урала
+69,education,студент
+70,age,18
+70,gender,м
+70,RegionBorn,Западнее Урала
+70,RegionLife,Западнее Урала
+70,education,студент
+71,age,29
+71,gender,ж
+71,RegionBorn,Восточнее Урала
+71,RegionLife,Восточнее Урала
+71,education,студент
+72,age,20
+72,gender,ж
+72,RegionBorn,Москва и Московская область
+72,RegionLife,Москва и Московская область
+72,education,студент
+73,age,17
+73,gender,ж
+73,RegionBorn,Москва и Московская область
+73,RegionLife,Москва и Московская область
+73,education,студент
+74,age,16
+74,gender,ж
+74,RegionBorn,Восточнее Урала
+74,RegionLife,Восточнее Урала
+74,education,среднее
+75,age,18
+75,gender,ж
+75,RegionBorn,Москва и Московская область
+75,RegionLife,Москва и Московская область
+75,education,студент
+76,age,22
+76,gender,м
+76,RegionBorn,Москва и Московская область
+76,RegionLife,Москва и Московская область
+76,education,высшее
+77,age,19
+77,gender,ж
+77,RegionBorn,Восточнее Урала
+77,RegionLife,Восточнее Урала
+77,education,студент
+78,age,17
+78,gender,ж
+78,RegionBorn,Санкт-Петербург и Ленинградская область
+78,RegionLife,Санкт-Петербург и Ленинградская область
+78,education,среднее
+79,age,20
+79,gender,ж
+79,RegionBorn,Западнее Урала
+79,RegionLife,Западнее Урала
+79,education,студент
+80,age,21
+80,gender,м
+80,RegionBorn,Западнее Урала
+80,RegionLife,Западнее Урала
+80,education,студент
+81,age,43
+81,gender,ж
+81,RegionBorn,Западнее Урала
+81,RegionLife,Западнее Урала
+81,education,высшее
+82,age,42
+82,gender,ж
+82,RegionBorn,Западнее Урала
+82,RegionLife,Западнее Урала
+82,education,высшее
+83,age,42
+83,gender,ж
+83,RegionBorn,Западнее Урала
+83,RegionLife,Западнее Урала
+83,education,высшее
+84,age,42
+84,gender,ж
+84,RegionBorn,Западнее Урала
+84,RegionLife,Западнее Урала
+84,education,высшее
+85,age,19
+85,gender,ж
+85,RegionBorn,Восточнее Урала
+85,RegionLife,Восточнее Урала
+85,education,студент
+86,age,31
+86,gender,ж
+86,RegionBorn,Восточнее Урала
+86,RegionLife,Восточнее Урала
+86,education,высшее
+87,age,19
+87,gender,ж
+87,RegionBorn,Западнее Урала
+87,RegionLife,Западнее Урала
+87,education,студент
+88,age,16
+88,gender,м
+88,RegionBorn,Москва и Московская область
+88,RegionLife,Москва и Московская область
+88,education,среднее
+89,age,32
+89,gender,ж
+89,RegionBorn,Москва и Московская область
+89,RegionLife,Москва и Московская область
+89,education,высшее
+90,age,17
+90,gender,ж
+90,RegionBorn,Москва и Московская область
+90,RegionLife,Москва и Московская область
+90,education,студент
+91,age,35
+91,gender,ж
+91,RegionBorn,Восточнее Урала
+91,RegionLife,Восточнее Урала
+91,education,среднее специальное
+92,age,52
+92,gender,ж
+92,RegionBorn,Восточнее Урала
+92,RegionLife,Восточнее Урала
+92,education,высшее
+93,age,19
+93,gender,м
+93,RegionBorn,Москва и Московская область
+93,RegionLife,Москва и Московская область
+93,education,студент
+94,age,19
+94,gender,ж
+94,RegionBorn,Западнее Урала
+94,RegionLife,Западнее Урала
+94,education,студент
+95,age,17
+95,gender,ж
+95,RegionBorn,Москва и Московская область
+95,RegionLife,Москва и Московская область
+95,education,студент
+96,age,19
+96,gender,ж
+96,RegionBorn,Западнее Урала
+96,RegionLife,Западнее Урала
+96,education,студент
+97,age,14
+97,gender,ж
+97,RegionBorn,Москва и Московская область
+97,RegionLife,Москва и Московская область
+97,education,среднее
+98,age,16
+98,gender,ж
+98,RegionBorn,Москва и Московская область
+98,RegionLife,Москва и Московская область
+98,education,среднее
+99,age,18
+99,gender,ж
+99,RegionBorn,Москва и Московская область
+99,RegionLife,Москва и Московская область
+99,education,студент
+100,age,19
+100,gender,ж
+100,RegionBorn,Москва и Московская область
+100,RegionLife,Москва и Московская область
+100,education,студент
+101,age,20
+101,gender,ж
+101,RegionBorn,Москва и Московская область
+101,RegionLife,Москва и Московская область
+101,education,студент
+102,age,20
+102,gender,ж
+102,RegionBorn,Москва и Московская область
+102,RegionLife,Москва и Московская область
+102,education,студент
+103,age,22
+103,gender,м
+103,RegionBorn,Москва и Московская область
+103,RegionLife,Москва и Московская область
+103,education,высшее
+104,age,22
+104,gender,м
+104,RegionBorn,Москва и Московская область
+104,RegionLife,Москва и Московская область
+104,education,высшее
+105,age,18
+105,gender,ж
+105,RegionBorn,Санкт-Петербург и Ленинградская область
+105,RegionLife,Санкт-Петербург и Ленинградская область
+105,education,студент
+106,age,19
+106,gender,ж
+106,RegionBorn,Москва и Московская область
+106,RegionLife,Москва и Московская область
+106,education,студент
+107,age,21
+107,gender,ж
+107,RegionBorn,Восточнее Урала
+107,RegionLife,Восточнее Урала
+107,education,студент
+108,age,19
+108,gender,ж
+108,RegionBorn,Санкт-Петербург и Ленинградская область
+108,RegionLife,Санкт-Петербург и Ленинградская область
+108,education,студент
+109,age,19
+109,gender,м
+109,RegionBorn,Западнее Урала
+109,RegionLife,Западнее Урала
+109,education,студент
+110,age,18
+110,gender,ж
+110,RegionBorn,Западнее Урала
+110,RegionLife,Западнее Урала
+110,education,студент
+111,age,44
+111,gender,ж
+111,RegionBorn,Восточнее Урала
+111,RegionLife,Санкт-Петербург и Ленинградская область
+111,education,высшее
+112,age,22
+112,gender,ж
+112,RegionBorn,Москва и Московская область
+112,RegionLife,Москва и Московская область
+112,education,высшее
+113,age,18
+113,gender,ж
+113,RegionBorn,Санкт-Петербург и Ленинградская область
+113,RegionLife,Санкт-Петербург и Ленинградская область
+113,education,среднее
+114,age,21
+114,gender,ж
+114,RegionBorn,Санкт-Петербург и Ленинградская область
+114,RegionLife,Санкт-Петербург и Ленинградская область
+114,education,высшее
+115,age,36
+115,gender,ж
+115,RegionBorn,Санкт-Петербург и Ленинградская область
+115,RegionLife,Санкт-Петербург и Ленинградская область
+115,education,высшее
+116,age,44
+116,gender,ж
+116,RegionBorn,Западнее Урала
+116,RegionLife,Санкт-Петербург и Ленинградская область
+116,education,высшее
+117,age,27
+117,gender,ж
+117,RegionBorn,Западнее Урала
+117,RegionLife,Санкт-Петербург и Ленинградская область
+117,education,высшее
+118,age,15
+118,gender,ж
+118,RegionBorn,Западнее Урала
+118,RegionLife,Москва и Московская область
+118,education,среднее
+119,age,21
+119,gender,ж
+119,RegionBorn,Западнее Урала
+119,RegionLife,Западнее Урала
+119,education,студент
+120,age,21
+120,gender,ж
+120,RegionBorn,Восточнее Урала
+120,RegionLife,Восточнее Урала
+120,education,студент
+121,age,22
+121,gender,ж
+121,RegionBorn,Восточнее Урала
+121,RegionLife,Восточнее Урала
+121,education,студент
+122,age,19
+122,gender,ж
+122,RegionBorn,Москва и Московская область
+122,RegionLife,Москва и Московская область
+122,education,студент
+123,age,19
+123,gender,м
+123,RegionBorn,Москва и Московская область
+123,RegionLife,Москва и Московская область
+123,education,студент
+124,age,20
+124,gender,м
+124,RegionBorn,Москва и Московская область
+124,RegionLife,Москва и Московская область
+124,education,студент
+125,age,19
+125,gender,ж
+125,RegionBorn,Западнее Урала
+125,RegionLife,Западнее Урала
+125,education,студент
+126,age,18
+126,gender,ж
+126,RegionBorn,Санкт-Петербург и Ленинградская область
+126,RegionLife,Санкт-Петербург и Ленинградская область
+126,education,студент
+127,age,19
+127,gender,ж
+127,RegionBorn,Западнее Урала
+127,RegionLife,Москва и Московская область
+127,education,студент
+128,age,17
+128,gender,ж
+128,RegionBorn,Западнее Урала
+128,RegionLife,Западнее Урала
+128,education,среднее
+129,age,16
+129,gender,ж
+129,RegionBorn,Западнее Урала
+129,RegionLife,Западнее Урала
+129,education,среднее
+130,age,23
+130,gender,ж
+130,RegionBorn,Западнее Урала
+130,RegionLife,Западнее Урала
+130,education,высшее
+131,age,30
+131,gender,ж
+131,RegionBorn,Западнее Урала
+131,RegionLife,Западнее Урала
+131,education,высшее
+132,age,20
+132,gender,ж
+132,RegionBorn,Москва и Московская область
+132,RegionLife,Москва и Московская область
+132,education,студент
+133,age,51
+133,gender,ж
+133,RegionBorn,Западнее Урала
+133,RegionLife,Западнее Урала
+133,education,среднее специальное
+134,age,33
+134,gender,ж
+134,RegionBorn,Восточнее Урала
+134,RegionLife,Восточнее Урала
+134,education,среднее
+135,age,27
+135,gender,ж
+135,RegionBorn,Москва и Московская область
+135,RegionLife,Москва и Московская область
+135,education,высшее
+136,age,60
+136,gender,ж
+136,RegionBorn,Восточнее Урала
+136,RegionLife,Западнее Урала
+136,education,высшее
+137,age,19
+137,gender,ж
+137,RegionBorn,Санкт-Петербург и Ленинградская область
+137,RegionLife,Санкт-Петербург и Ленинградская область
+137,education,студент
+138,age,20
+138,gender,ж
+138,RegionBorn,Западнее Урала
+138,RegionLife,Западнее Урала
+138,education,студент
+139,age,33
+139,gender,ж
+139,RegionBorn,Москва и Московская область
+139,RegionLife,Москва и Московская область
+139,education,высшее
+140,age,33
+140,gender,ж
+140,RegionBorn,Москва и Московская область
+140,RegionLife,Москва и Московская область
+140,education,высшее
+141,age,19
+141,gender,ж
+141,RegionBorn,Западнее Урала
+141,RegionLife,Западнее Урала
+141,education,студент
+142,age,18
+142,gender,ж
+142,RegionBorn,Москва и Московская область
+142,RegionLife,Москва и Московская область
+142,education,студент
+143,age,18
+143,gender,ж
+143,RegionBorn,Москва и Московская область
+143,RegionLife,Москва и Московская область
+143,education,студент
+144,age,35
+144,gender,ж
+144,RegionBorn,Восточнее Урала
+144,RegionLife,Москва и Московская область
+144,education,высшее
+145,age,35
+145,gender,ж
+145,RegionBorn,Восточнее Урала
+145,RegionLife,Москва и Московская область
+145,education,высшее
+146,age,21
+146,gender,ж
+146,RegionBorn,Москва и Московская область
+146,RegionLife,Москва и Московская область
+146,education,студент
+147,age,22
+147,gender,ж
+147,RegionBorn,Западнее Урала
+147,RegionLife,Западнее Урала
+147,education,среднее
+148,age,19
+148,gender,ж
+148,RegionBorn,Западнее Урала
+148,RegionLife,Западнее Урала
+148,education,среднее специальное
+149,age,17
+149,gender,ж
+149,RegionBorn,Москва и Московская область
+149,RegionLife,Москва и Московская область
+149,education,среднее
+150,age,14
+150,gender,ж
+150,RegionBorn,Санкт-Петербург и Ленинградская область
+150,RegionLife,Санкт-Петербург и Ленинградская область
+150,education,среднее
+151,age,18
+151,gender,м
+151,RegionBorn,Москва и Московская область
+151,RegionLife,Москва и Московская область
+151,education,студент
+152,age,21
+152,gender,ж
+152,RegionBorn,Восточнее Урала
+152,RegionLife,Восточнее Урала
+152,education,студент
+153,age,21
+153,gender,м
+153,RegionBorn,Москва и Московская область
+153,RegionLife,Москва и Московская область
+153,education,студент
+154,age,19
+154,gender,ж
+154,RegionBorn,Западнее Урала
+154,RegionLife,Западнее Урала
+154,education,студент
+155,age,22
+155,gender,ж
+155,RegionBorn,Москва и Московская область
+155,RegionLife,Москва и Московская область
+155,education,студент
+156,age,22
+156,gender,ж
+156,RegionBorn,Москва и Московская область
+156,RegionLife,Москва и Московская область
+156,education,высшее
+157,age,17
+157,gender,ж
+157,RegionBorn,Западнее Урала
+157,RegionLife,Западнее Урала
+157,education,студент
+158,age,22
+158,gender,ж
+158,RegionBorn,Западнее Урала
+158,RegionLife,Москва и Московская область
+158,education,высшее
+159,age,20
+159,gender,ж
+159,RegionBorn,Западнее Урала
+159,RegionLife,Москва и Московская область
+159,education,студент
+160,age,20
+160,gender,ж
+160,RegionBorn,Западнее Урала
+160,RegionLife,Западнее Урала
+160,education,студент
+161,age,21
+161,gender,ж
+161,RegionBorn,Западнее Урала
+161,RegionLife,Западнее Урала
+161,education,студент
+162,age,20
+162,gender,м
+162,RegionBorn,Западнее Урала
+162,RegionLife,Западнее Урала
+162,education,студент
+163,age,17
+163,gender,ж
+163,RegionBorn,Москва и Московская область
+163,RegionLife,Москва и Московская область
+163,education,студент
+164,age,18
+164,gender,ж
+164,RegionBorn,Москва и Московская область
+164,RegionLife,Москва и Московская область
+164,education,студент
+165,age,18
+165,gender,ж
+165,RegionBorn,Москва и Московская область
+165,RegionLife,Москва и Московская область
+165,education,студент
+166,age,18
+166,gender,ж
+166,RegionBorn,Москва и Московская область
+166,RegionLife,Москва и Московская область
+166,education,студент
+167,age,18
+167,gender,м
+167,RegionBorn,Москва и Московская область
+167,RegionLife,Москва и Московская область
+167,education,студент
+168,age,19
+168,gender,ж
+168,RegionBorn,Москва и Московская область
+168,RegionLife,Москва и Московская область
+168,education,студент
+169,age,20
+169,gender,ж
+169,RegionBorn,Москва и Московская область
+169,RegionLife,Москва и Московская область
+169,education,студент
+170,age,21
+170,gender,ж
+170,RegionBorn,Москва и Московская область
+170,RegionLife,Москва и Московская область
+170,education,студент
+171,age,27
+171,gender,ж
+171,RegionBorn,Москва и Московская область
+171,RegionLife,Москва и Московская область
+171,education,высшее
+172,age,18
+172,gender,ж
+172,RegionBorn,Восточнее Урала
+172,RegionLife,Восточнее Урала
+172,education,студент
+173,age,18
+173,gender,м
+173,RegionBorn,Восточнее Урала
+173,RegionLife,Восточнее Урала
+173,education,студент
+174,age,19
+174,gender,ж
+174,RegionBorn,Западнее Урала
+174,RegionLife,Западнее Урала
+174,education,студент
+175,age,21
+175,gender,ж
+175,RegionBorn,Западнее Урала
+175,RegionLife,Западнее Урала
+175,education,студент
+176,age,22
+176,gender,ж
+176,RegionBorn,Восточнее Урала
+176,RegionLife,Западнее Урала
+176,education,высшее
+177,age,18
+177,gender,ж
+177,RegionBorn,Москва и Московская область
+177,RegionLife,Москва и Московская область
+177,education,студент
+178,age,33
+178,gender,ж
+178,RegionBorn,Восточнее Урала
+178,RegionLife,Западнее Урала
+178,education,высшее
+179,age,17
+179,gender,ж
+179,RegionBorn,Западнее Урала
+179,RegionLife,Западнее Урала
+179,education,среднее
+180,age,17
+180,gender,ж
+180,RegionBorn,Западнее Урала
+180,RegionLife,Западнее Урала
+180,education,студент
+181,age,36
+181,gender,ж
+181,RegionBorn,Восточнее Урала
+181,RegionLife,Восточнее Урала
+181,education,высшее
+182,age,21
+182,gender,ж
+182,RegionBorn,Западнее Урала
+182,RegionLife,Западнее Урала
+182,education,студент
+183,age,19
+183,gender,ж
+183,RegionBorn,Западнее Урала
+183,RegionLife,Западнее Урала
+183,education,студент
+184,age,19
+184,gender,ж
+184,RegionBorn,Западнее Урала
+184,RegionLife,Западнее Урала
+184,education,студент
+185,age,20
+185,gender,ж
+185,RegionBorn,Санкт-Петербург и Ленинградская область
+185,RegionLife,Санкт-Петербург и Ленинградская область
+185,education,студент
+186,age,36
+186,gender,ж
+186,RegionBorn,Санкт-Петербург и Ленинградская область
+186,RegionLife,Санкт-Петербург и Ленинградская область
+186,education,высшее
+187,age,19
+187,gender,ж
+187,RegionBorn,Восточнее Урала
+187,RegionLife,Восточнее Урала
+187,education,студент
+188,age,20
+188,gender,ж
+188,RegionBorn,Восточнее Урала
+188,RegionLife,Восточнее Урала
+188,education,студент
+189,age,24
+189,gender,ж
+189,RegionBorn,Восточнее Урала
+189,RegionLife,Восточнее Урала
+189,education,среднее специальное
+190,age,17
+190,gender,ж
+190,RegionBorn,Восточнее Урала
+190,RegionLife,Восточнее Урала
+190,education,среднее
+191,age,18
+191,gender,ж
+191,RegionBorn,Москва и Московская область
+191,RegionLife,Москва и Московская область
+191,education,студент
+192,age,18
+192,gender,ж
+192,RegionBorn,Западнее Урала
+192,RegionLife,Западнее Урала
+192,education,студент
+193,age,20
+193,gender,м
+193,RegionBorn,Восточнее Урала
+193,RegionLife,Восточнее Урала
+193,education,студент
+194,age,20
+194,gender,м
+194,RegionBorn,Восточнее Урала
+194,RegionLife,Восточнее Урала
+194,education,студент
+195,age,19
+195,gender,ж
+195,RegionBorn,Западнее Урала
+195,RegionLife,Западнее Урала
+195,education,студент
+196,age,17
+196,gender,ж
+196,RegionBorn,Москва и Московская область
+196,RegionLife,Санкт-Петербург и Ленинградская область
+196,education,студент
+197,age,18
+197,gender,ж
+197,RegionBorn,Восточнее Урала
+197,RegionLife,Восточнее Урала
+197,education,студент
+198,age,17
+198,gender,ж
+198,RegionBorn,Западнее Урала
+198,RegionLife,Западнее Урала
+198,education,среднее
+199,age,19
+199,gender,ж
+199,RegionBorn,Москва и Московская область
+199,RegionLife,Москва и Московская область
+199,education,студент
+200,age,18
+200,gender,ж
+200,RegionBorn,Западнее Урала
+200,RegionLife,Западнее Урала
+200,education,студент
+201,age,19
+201,gender,ж
+201,RegionBorn,Западнее Урала
+201,RegionLife,Западнее Урала
+201,education,студент
+202,age,17
+202,gender,ж
+202,RegionBorn,Москва и Московская область
+202,RegionLife,Москва и Московская область
+202,education,студент
+203,age,17
+203,gender,ж
+203,RegionBorn,Западнее Урала
+203,RegionLife,Западнее Урала
+203,education,студент
+204,age,16
+204,gender,ж
+204,RegionBorn,Западнее Урала
+204,RegionLife,Москва и Московская область
+204,education,среднее
+205,age,16
+205,gender,м
+205,RegionBorn,Западнее Урала
+205,RegionLife,Западнее Урала
+205,education,среднее
+206,age,30
+206,gender,ж
+206,RegionBorn,Восточнее Урала
+206,RegionLife,Восточнее Урала
+206,education,высшее
+207,age,18
+207,gender,ж
+207,RegionBorn,Западнее Урала
+207,RegionLife,Западнее Урала
+207,education,студент
+208,age,17
+208,gender,ж
+208,RegionBorn,Санкт-Петербург и Ленинградская область
+208,RegionLife,Санкт-Петербург и Ленинградская область
+208,education,среднее
+209,age,19
+209,gender,ж
+209,RegionBorn,Москва и Московская область
+209,RegionLife,Москва и Московская область
+209,education,студент
+210,age,19
+210,gender,м
+210,RegionBorn,Москва и Московская область
+210,RegionLife,Москва и Московская область
+210,education,студент
+211,age,19
+211,gender,ж
+211,RegionBorn,Западнее Урала
+211,RegionLife,Западнее Урала
+211,education,студент
+212,age,19
+212,gender,ж
+212,RegionBorn,Западнее Урала
+212,RegionLife,Западнее Урала
+212,education,студент
+213,age,17
+213,gender,ж
+213,RegionBorn,Восточнее Урала
+213,RegionLife,Санкт-Петербург и Ленинградская область
+213,education,среднее
+214,age,19
+214,gender,ж
+214,RegionBorn,Западнее Урала
+214,RegionLife,Западнее Урала
+214,education,студент
+215,age,19
+215,gender,ж
+215,RegionBorn,Западнее Урала
+215,RegionLife,Западнее Урала
+215,education,студент
+216,age,22
+216,gender,ж
+216,RegionBorn,Западнее Урала
+216,RegionLife,Западнее Урала
+216,education,высшее
+217,age,22
+217,gender,ж
+217,RegionBorn,Западнее Урала
+217,RegionLife,Западнее Урала
+217,education,высшее
+218,age,20
+218,gender,м
+218,RegionBorn,Москва и Московская область
+218,RegionLife,Москва и Московская область
+218,education,среднее
+219,age,20
+219,gender,м
+219,RegionBorn,Москва и Московская область
+219,RegionLife,Москва и Московская область
+219,education,среднее
+220,age,20
+220,gender,м
+220,RegionBorn,Москва и Московская область
+220,RegionLife,Москва и Московская область
+220,education,среднее
+221,age,20
+221,gender,ж
+221,RegionBorn,Санкт-Петербург и Ленинградская область
+221,RegionLife,Санкт-Петербург и Ленинградская область
+221,education,студент
+222,age,20
+222,gender,ж
+222,RegionBorn,Санкт-Петербург и Ленинградская область
+222,RegionLife,Санкт-Петербург и Ленинградская область
+222,education,студент
+223,age,18
+223,gender,ж
+223,RegionBorn,Западнее Урала
+223,RegionLife,Западнее Урала
+223,education,студент
+224,age,18
+224,gender,ж
+224,RegionBorn,Западнее Урала
+224,RegionLife,Западнее Урала
+224,education,студент
+225,age,19
+225,gender,ж
+225,RegionBorn,Москва и Московская область
+225,RegionLife,Москва и Московская область
+225,education,студент
+226,age,18
+226,gender,ж
+226,RegionBorn,Санкт-Петербург и Ленинградская область
+226,RegionLife,Санкт-Петербург и Ленинградская область
+226,education,студент
+227,age,19
+227,gender,ж
+227,RegionBorn,Санкт-Петербург и Ленинградская область
+227,RegionLife,Санкт-Петербург и Ленинградская область
+227,education,студент
+228,age,32
+228,gender,ж
+228,RegionBorn,Санкт-Петербург и Ленинградская область
+228,RegionLife,Санкт-Петербург и Ленинградская область
+228,education,высшее
+229,age,25
+229,gender,ж
+229,RegionBorn,Санкт-Петербург и Ленинградская область
+229,RegionLife,Санкт-Петербург и Ленинградская область
+229,education,высшее
+230,age,33
+230,gender,м
+230,RegionBorn,Санкт-Петербург и Ленинградская область
+230,RegionLife,Санкт-Петербург и Ленинградская область
+230,education,среднее специальное
+231,age,20
+231,gender,ж
+231,RegionBorn,Санкт-Петербург и Ленинградская область
+231,RegionLife,Западнее Урала
+231,education,студент
+232,age,18
+232,gender,м
+232,RegionBorn,Санкт-Петербург и Ленинградская область
+232,RegionLife,Санкт-Петербург и Ленинградская область
+232,education,студент
+233,age,18
+233,gender,ж
+233,RegionBorn,Санкт-Петербург и Ленинградская область
+233,RegionLife,Санкт-Петербург и Ленинградская область
+233,education,студент
+234,age,22
+234,gender,ж
+234,RegionBorn,Санкт-Петербург и Ленинградская область
+234,RegionLife,Санкт-Петербург и Ленинградская область
+234,education,высшее
+235,age,22
+235,gender,ж
+235,RegionBorn,Санкт-Петербург и Ленинградская область
+235,RegionLife,Санкт-Петербург и Ленинградская область
+235,education,высшее
+236,age,40
+236,gender,ж
+236,RegionBorn,Восточнее Урала
+236,RegionLife,Санкт-Петербург и Ленинградская область
+236,education,высшее
+237,age,40
+237,gender,ж
+237,RegionBorn,Восточнее Урала
+237,RegionLife,Санкт-Петербург и Ленинградская область
+237,education,высшее
+238,age,18
+238,gender,м
+238,RegionBorn,Западнее Урала
+238,RegionLife,Западнее Урала
+238,education,студент
+239,age,22
+239,gender,ж
+239,RegionBorn,Санкт-Петербург и Ленинградская область
+239,RegionLife,Санкт-Петербург и Ленинградская область
+239,education,высшее
+240,age,22
+240,gender,ж
+240,RegionBorn,Санкт-Петербург и Ленинградская область
+240,RegionLife,Санкт-Петербург и Ленинградская область
+240,education,высшее
+241,age,17
+241,gender,ж
+241,RegionBorn,Санкт-Петербург и Ленинградская область
+241,RegionLife,Санкт-Петербург и Ленинградская область
+241,education,студент
+242,age,17
+242,gender,ж
+242,RegionBorn,Санкт-Петербург и Ленинградская область
+242,RegionLife,Санкт-Петербург и Ленинградская область
+242,education,студент
+243,age,20
+243,gender,ж
+243,RegionBorn,Восточнее Урала
+243,RegionLife,Восточнее Урала
+243,education,студент
+244,age,33
+244,gender,ж
+244,RegionBorn,Восточнее Урала
+244,RegionLife,Восточнее Урала
+244,education,высшее
+245,age,23
+245,gender,ж
+245,RegionBorn,Восточнее Урала
+245,RegionLife,Восточнее Урала
+245,education,высшее
+246,age,16
+246,gender,ж
+246,RegionBorn,Санкт-Петербург и Ленинградская область
+246,RegionLife,Санкт-Петербург и Ленинградская область
+246,education,среднее
+247,age,19
+247,gender,ж
+247,RegionBorn,Санкт-Петербург и Ленинградская область
+247,RegionLife,Санкт-Петербург и Ленинградская область
+247,education,студент
+248,age,19
+248,gender,ж
+248,RegionBorn,Восточнее Урала
+248,RegionLife,Восточнее Урала
+248,education,студент
+249,age,18
+249,gender,ж
+249,RegionBorn,Западнее Урала
+249,RegionLife,Западнее Урала
+249,education,студент
+250,age,40
+250,gender,ж
+250,RegionBorn,Западнее Урала
+250,RegionLife,Западнее Урала
+250,education,высшее
+251,age,21
+251,gender,ж
+251,RegionBorn,Восточнее Урала
+251,RegionLife,Восточнее Урала
+251,education,студент
+252,age,18
+252,gender,ж
+252,RegionBorn,Санкт-Петербург и Ленинградская область
+252,RegionLife,Санкт-Петербург и Ленинградская область
+252,education,студент
+253,age,29
+253,gender,ж
+253,RegionBorn,Санкт-Петербург и Ленинградская область
+253,RegionLife,Санкт-Петербург и Ленинградская область
+253,education,высшее
+254,age,14
+254,gender,ж
+254,RegionBorn,Санкт-Петербург и Ленинградская область
+254,RegionLife,Санкт-Петербург и Ленинградская область
+254,education,среднее
+255,age,15
+255,gender,ж
+255,RegionBorn,Санкт-Петербург и Ленинградская область
+255,RegionLife,Санкт-Петербург и Ленинградская область
+255,education,среднее
+256,age,16
+256,gender,ж
+256,RegionBorn,Санкт-Петербург и Ленинградская область
+256,RegionLife,Санкт-Петербург и Ленинградская область
+256,education,среднее
+257,age,16
+257,gender,м
+257,RegionBorn,Санкт-Петербург и Ленинградская область
+257,RegionLife,Санкт-Петербург и Ленинградская область
+257,education,среднее
+258,age,18
+258,gender,ж
+258,RegionBorn,Санкт-Петербург и Ленинградская область
+258,RegionLife,Санкт-Петербург и Ленинградская область
+258,education,студент
+259,age,19
+259,gender,ж
+259,RegionBorn,Санкт-Петербург и Ленинградская область
+259,RegionLife,Санкт-Петербург и Ленинградская область
+259,education,студент
+260,age,25
+260,gender,ж
+260,RegionBorn,Санкт-Петербург и Ленинградская область
+260,RegionLife,Санкт-Петербург и Ленинградская область
+260,education,высшее
+261,age,27
+261,gender,ж
+261,RegionBorn,Санкт-Петербург и Ленинградская область
+261,RegionLife,Санкт-Петербург и Ленинградская область
+261,education,высшее
+262,age,29
+262,gender,м
+262,RegionBorn,Санкт-Петербург и Ленинградская область
+262,RegionLife,Санкт-Петербург и Ленинградская область
+262,education,высшее
+263,age,31
+263,gender,ж
+263,RegionBorn,Санкт-Петербург и Ленинградская область
+263,RegionLife,Санкт-Петербург и Ленинградская область
+263,education,высшее
+264,age,31
+264,gender,м
+264,RegionBorn,Санкт-Петербург и Ленинградская область
+264,RegionLife,Санкт-Петербург и Ленинградская область
+264,education,высшее
+265,age,35
+265,gender,ж
+265,RegionBorn,Санкт-Петербург и Ленинградская область
+265,RegionLife,Санкт-Петербург и Ленинградская область
+265,education,высшее
+266,age,38
+266,gender,ж
+266,RegionBorn,Санкт-Петербург и Ленинградская область
+266,RegionLife,Санкт-Петербург и Ленинградская область
+266,education,высшее
+267,age,40
+267,gender,ж
+267,RegionBorn,Санкт-Петербург и Ленинградская область
+267,RegionLife,Санкт-Петербург и Ленинградская область
+267,education,высшее
+268,age,31
+268,gender,ж
+268,RegionBorn,Западнее Урала
+268,RegionLife,Санкт-Петербург и Ленинградская область
+268,education,высшее
+269,age,42
+269,gender,ж
+269,RegionBorn,Санкт-Петербург и Ленинградская область
+269,RegionLife,Санкт-Петербург и Ленинградская область
+269,education,высшее
+270,age,37
+270,gender,ж
+270,RegionBorn,Санкт-Петербург и Ленинградская область
+270,RegionLife,Санкт-Петербург и Ленинградская область
+270,education,высшее
+271,age,79
+271,gender,ж
+271,RegionBorn,Западнее Урала
+271,RegionLife,Западнее Урала
+271,education,высшее
+272,age,18
+272,gender,ж
+272,RegionBorn,Санкт-Петербург и Ленинградская область
+272,RegionLife,Санкт-Петербург и Ленинградская область
+272,education,среднее специальное
+273,age,18
+273,gender,ж
+273,RegionBorn,Санкт-Петербург и Ленинградская область
+273,RegionLife,Санкт-Петербург и Ленинградская область
+273,education,студент
+274,age,33
+274,gender,ж
+274,RegionBorn,Санкт-Петербург и Ленинградская область
+274,RegionLife,Санкт-Петербург и Ленинградская область
+274,education,высшее
+275,age,16
+275,gender,ж
+275,RegionBorn,Западнее Урала
+275,RegionLife,Западнее Урала
+275,education,среднее
+276,age,19
+276,gender,ж
+276,RegionBorn,Восточнее Урала
+276,RegionLife,Восточнее Урала
+276,education,студент
+277,age,21
+277,gender,ж
+277,RegionBorn,Восточнее Урала
+277,RegionLife,Восточнее Урала
+277,education,среднее специальное
+278,age,19
+278,gender,ж
+278,RegionBorn,Санкт-Петербург и Ленинградская область
+278,RegionLife,Санкт-Петербург и Ленинградская область
+278,education,студент
+279,age,16
+279,gender,ж
+279,RegionBorn,Санкт-Петербург и Ленинградская область
+279,RegionLife,Санкт-Петербург и Ленинградская область
+279,education,среднее
+280,age,22
+280,gender,ж
+280,RegionBorn,Восточнее Урала
+280,RegionLife,Восточнее Урала
+280,education,высшее
+281,age,18
+281,gender,ж
+281,RegionBorn,Западнее Урала
+281,RegionLife,Западнее Урала
+281,education,студент
+282,age,18
+282,gender,ж
+282,RegionBorn,Санкт-Петербург и Ленинградская область
+282,RegionLife,Санкт-Петербург и Ленинградская область
+282,education,студент
+283,age,18
+283,gender,ж
+283,RegionBorn,Восточнее Урала
+283,RegionLife,Восточнее Урала
+283,education,студент
+284,age,20
+284,gender,ж
+284,RegionBorn,Западнее Урала
+284,RegionLife,Западнее Урала
+284,education,студент
+285,age,20
+285,gender,м
+285,RegionBorn,Москва и Московская область
+285,RegionLife,Москва и Московская область
+285,education,студент
+286,age,19
+286,gender,ж
+286,RegionBorn,Москва и Московская область
+286,RegionLife,Москва и Московская область
+286,education,студент
+287,age,56
+287,gender,ж
+287,RegionBorn,Западнее Урала
+287,RegionLife,Западнее Урала
+287,education,высшее
+288,age,30
+288,gender,ж
+288,RegionBorn,Санкт-Петербург и Ленинградская область
+288,RegionLife,Санкт-Петербург и Ленинградская область
+288,education,высшее
+289,age,31
+289,gender,ж
+289,RegionBorn,Западнее Урала
+289,RegionLife,Санкт-Петербург и Ленинградская область
+289,education,высшее
+290,age,23
+290,gender,ж
+290,RegionBorn,Западнее Урала
+290,RegionLife,Западнее Урала
+290,education,студент
+291,age,21
+291,gender,ж
+291,RegionBorn,Западнее Урала
+291,RegionLife,Западнее Урала
+291,education,студент
+292,age,18
+292,gender,ж
+292,RegionBorn,Западнее Урала
+292,RegionLife,Западнее Урала
+292,education,студент
+293,age,19
+293,gender,ж
+293,RegionBorn,Западнее Урала
+293,RegionLife,Западнее Урала
+293,education,студент
+294,age,19
+294,gender,ж
+294,RegionBorn,Западнее Урала
+294,RegionLife,Западнее Урала
+294,education,студент
+295,age,35
+295,gender,ж
+295,RegionBorn,Западнее Урала
+295,RegionLife,Западнее Урала
+295,education,высшее
+296,age,18
+296,gender,м
+296,RegionBorn,Западнее Урала
+296,RegionLife,Западнее Урала
+296,education,студент
+297,age,28
+297,gender,ж
+297,RegionBorn,Восточнее Урала
+297,RegionLife,Западнее Урала
+297,education,высшее
+298,age,19
+298,gender,ж
+298,RegionBorn,Западнее Урала
+298,RegionLife,Западнее Урала
+298,education,студент
+299,age,25
+299,gender,ж
+299,RegionBorn,Восточнее Урала
+299,RegionLife,Западнее Урала
+299,education,высшее
+300,age,27
+300,gender,ж
+300,RegionBorn,Западнее Урала
+300,RegionLife,Западнее Урала
+300,education,высшее
+301,age,21
+301,gender,ж
+301,RegionBorn,Западнее Урала
+301,RegionLife,Западнее Урала
+301,education,студент
+302,age,18
+302,gender,м
+302,RegionBorn,Санкт-Петербург и Ленинградская область
+302,RegionLife,Санкт-Петербург и Ленинградская область
+302,education,студент
+303,age,25
+303,gender,ж
+303,RegionBorn,Западнее Урала
+303,RegionLife,Западнее Урала
+303,education,высшее
+304,age,23
+304,gender,ж
+304,RegionBorn,Западнее Урала
+304,RegionLife,Западнее Урала
+304,education,высшее
+305,age,19
+305,gender,ж
+305,RegionBorn,Западнее Урала
+305,RegionLife,Западнее Урала
+305,education,студент
+306,age,22
+306,gender,ж
+306,RegionBorn,Западнее Урала
+306,RegionLife,Западнее Урала
+306,education,студент
+307,age,22
+307,gender,ж
+307,RegionBorn,Западнее Урала
+307,RegionLife,Западнее Урала
+307,education,студент
+308,age,15
+308,gender,ж
+308,RegionBorn,Западнее Урала
+308,RegionLife,Западнее Урала
+308,education,среднее
+309,age,34
+309,gender,ж
+309,RegionBorn,Западнее Урала
+309,RegionLife,Восточнее Урала
+309,education,высшее
+310,age,28
+310,gender,ж
+310,RegionBorn,Западнее Урала
+310,RegionLife,Западнее Урала
+310,education,высшее
+311,age,18
+311,gender,ж
+311,RegionBorn,Москва и Московская область
+311,RegionLife,Москва и Московская область
+311,education,студент
+312,age,18
+312,gender,ж
+312,RegionBorn,Москва и Московская область
+312,RegionLife,Москва и Московская область
+312,education,студент
+313,age,17
+313,gender,ж
+313,RegionBorn,Санкт-Петербург и Ленинградская область
+313,RegionLife,Санкт-Петербург и Ленинградская область
+313,education,среднее
+314,age,17
+314,gender,ж
+314,RegionBorn,Санкт-Петербург и Ленинградская область
+314,RegionLife,Санкт-Петербург и Ленинградская область
+314,education,среднее
+315,age,23
+315,gender,ж
+315,RegionBorn,Санкт-Петербург и Ленинградская область
+315,RegionLife,Санкт-Петербург и Ленинградская область
+315,education,высшее
+316,age,19
+316,gender,ж
+316,RegionBorn,Москва и Московская область
+316,RegionLife,Москва и Московская область
+316,education,студент
+317,age,19
+317,gender,ж
+317,RegionBorn,Западнее Урала
+317,RegionLife,Западнее Урала
+317,education,студент
+318,age,19
+318,gender,ж
+318,RegionBorn,Москва и Московская область
+318,RegionLife,Москва и Московская область
+318,education,студент
+319,age,31
+319,gender,ж
+319,RegionBorn,Москва и Московская область
+319,RegionLife,Москва и Московская область
+319,education,высшее
+320,age,20
+320,gender,м
+320,RegionBorn,Западнее Урала
+320,RegionLife,Западнее Урала
+320,education,студент
+321,age,19
+321,gender,ж
+321,RegionBorn,Западнее Урала
+321,RegionLife,Западнее Урала
+321,education,студент
+322,age,19
+322,gender,ж
+322,RegionBorn,Санкт-Петербург и Ленинградская область
+322,RegionLife,Санкт-Петербург и Ленинградская область
+322,education,студент
+323,age,20
+323,gender,ж
+323,RegionBorn,Западнее Урала
+323,RegionLife,Западнее Урала
+323,education,студент
+324,age,20
+324,gender,ж
+324,RegionBorn,Восточнее Урала
+324,RegionLife,Восточнее Урала
+324,education,студент
+325,age,19
+325,gender,ж
+325,RegionBorn,Западнее Урала
+325,RegionLife,Западнее Урала
+325,education,студент
+326,age,
+326,gender,
+326,RegionBorn,
+326,RegionLife,
+326,education,
+327,age,
+327,gender,
+327,RegionBorn,
+327,RegionLife,
+327,education,
+328,age,
+328,gender,
+328,RegionBorn,
+328,RegionLife,
+328,education,
+329,age,
+329,gender,
+329,RegionBorn,
+329,RegionLife,
+329,education,
+330,age,
+330,gender,
+330,RegionBorn,
+330,RegionLife,
+330,education,
+331,age,
+331,gender,
+331,RegionBorn,
+331,RegionLife,
+331,education,
+332,age,
+332,gender,
+332,RegionBorn,
+332,RegionLife,
+332,education,
+333,age,
+333,gender,
+333,RegionBorn,
+333,RegionLife,
+333,education,
+334,age,
+334,gender,
+334,RegionBorn,
+334,RegionLife,
+334,education,
+335,age,
+335,gender,
+335,RegionBorn,
+335,RegionLife,
+335,education,
+336,age,50
+336,gender,ж
+336,RegionBorn,Москва и Московская область
+336,RegionLife,Москва и Московская область
+336,education,высшее
+337,age,32
+337,gender,ж
+337,RegionBorn,Санкт-Петербург и Ленинградская область
+337,RegionLife,Санкт-Петербург и Ленинградская область
+337,education,высшее
+338,age,18
+338,gender,м
+338,RegionBorn,Восточнее Урала
+338,RegionLife,Восточнее Урала
+338,education,студент
+339,age,18
+339,gender,ж
+339,RegionBorn,Восточнее Урала
+339,RegionLife,Восточнее Урала
+339,education,студент
