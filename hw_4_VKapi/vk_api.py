@@ -4,7 +4,7 @@ import json
 import sqlite3
 import matplotlib.pyplot as plt
 
-##Выкачать стену: пост, текст поста, автор, комментарии, автор комментария.
+##Вроде бы всё умеет, и собирает всю информацию в БД. Графики получаются не очень хорошие (но, возможно, я не поняла, что именно надо было визуализировать)
 access_token = 'd95f88c4d95f88c4d95f88c42dd93da4f6dd95fd95f88c4839e41b0a40c5ad5dfed7c1c'
 conn = sqlite3.connect('perawki_plus.db')
 c = conn.cursor()
@@ -335,14 +335,14 @@ def make_city(city_dict):
 
 def main():
     #Создание и наполнение БД
-    #create_database()
-    #make_Posts()
-    #make_Comments(get_post_ids())
-    #write_authors(get_authors())
+    create_database()
+    make_Posts()
+    make_Comments(get_post_ids())
+    write_authors(get_authors())
     #Графики
-    #make_axes_length(get_post_ids())
-    #make_person(get_person_ids())
-    #make_age(get_ages())
+    make_axes_length(get_post_ids())
+    make_person(get_person_ids())
+    make_age(get_ages())
     make_city(get_cities())
     conn.close()
 
